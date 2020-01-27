@@ -1,0 +1,76 @@
+body {
+   background-image:  url('../img/fondo2.jpg');
+}
+
+.jumbotron {
+    background-color:#9E4633;
+    color: white;
+    border-bottom-color: black;
+    border-bottom-width: 5;
+    border-style: solid;
+}
+
+.panel-heading {
+    background-color: #9E4633 !important;
+    color: white !important;    
+    border-bottom-color: black;
+    border-bottom-width: 5;
+    border-style: solid;
+}
+.form-group{
+   margin-left: 30px;
+   margin-right: 30px;
+}
+
+.panel-body {
+    color: black !important;
+    background-color: white !important;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    background-color: #2b2b2b;
+}
+
+.navbar-brand:link, .navbar-brand:visited {
+    color: deepskyblue !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active {
+    color: white !important;
+}
+
+#navbar li a:link, #navbar li a:visited {
+    color: white !important;
+}
+
+#navbar li a:hover, #navbar li a:active {
+    color: deepskyblue !important;
+}
+table, th, td {
+  border: 1px solid black;
+}
+.dropdown-menu {
+    background-color: #2b2b2b;
+}
+
+.open > a {
+    background-color: #2b2b2b !important;
+}
+
+.btn-primary {
+    background-color: deepskyblue !important;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #2b2b2b !important;
+}
+
+.contenido-articulo, .perfil {
+    background-color: white;
+    padding: 2em;
+}
+

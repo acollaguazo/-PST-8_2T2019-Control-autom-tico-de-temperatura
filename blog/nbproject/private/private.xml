@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/XAMPP/htdocs/blog/index.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/plantillas/tablaDatos.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/css/styles.css</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/RepositorioDatos.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/ControlSesion.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/Equipo.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/logout.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/ValidarEquipo.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/usuario.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/plantillas/encabezado.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/login.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/Conexion.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/plantillas/navbar.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/ValidadorRegistro.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/Redireccion.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/Datos.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/ValidadorLogin.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/pantallaGrafico.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/RepositorioEquipos.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/config.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/app/RepositorioUsuario.inc.php</file>
+            <file>file:/D:/XAMPP/htdocs/blog/plantillas/listaEquipos.inc.php</file>
+        </group>
+    </open-files>
+</project-private>
